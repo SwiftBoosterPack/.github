@@ -6,7 +6,7 @@ It aims to reduce complicated or repetitive tasks to allow developers to focus o
 
 This won't eliminate every edge case, but it will hopefully make developing a little easier!
 
-# ConcurrencyBooster
+# [ConcurrencyBooster](https://github.com/SwiftBoosterPack/ConcurrencyBooster)
 
 Aims to reduce some of the annoyances with concurrency, particularly around using locks and atomic/synchronization
 
