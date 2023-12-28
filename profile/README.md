@@ -10,6 +10,10 @@ This won't eliminate every edge case, but it will hopefully make developing a li
 
 Aims to reduce some of the annoyances with concurrency, particularly around using locks and atomic/synchronization
 
+# [CombinePublisherBooster](https://github.com/SwiftBoosterPack/CombinePublisherBooster)
+
+Looks to provide publishers for Combine that are similar to those provided by RxSwift
+
 # Contributing
 
 If you want to contribute, create an issue or reach out! We aim to create boosters that are targeted to very specific repetetive issues.
