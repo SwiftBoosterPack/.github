@@ -14,6 +14,10 @@ Aims to reduce some of the annoyances with concurrency, particularly around usin
 
 Looks to provide publishers for Combine that are similar to those provided by RxSwift
 
+# [CombineTestingBooster](https://github.com/SwiftBoosterPack/CombineTestingBooster)
+
+Provide content to make testing custom Combine implementations more easily.
+
 # Contributing
 
 If you want to contribute, create an issue or reach out! We aim to create boosters that are targeted to very specific repetetive issues.
